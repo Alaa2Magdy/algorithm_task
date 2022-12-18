@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\kruskal_algo\kruskal_algo\bin\Debug\net6.0\kruskal_algo.exe
+C:\Users\user\source\repos\kruskal_algo\kruskal_algo\bin\Debug\net6.0\kruskal_algo.deps.json
+C:\Users\user\source\repos\kruskal_algo\kruskal_algo\bin\Debug\net6.0\kruskal_algo.runtimeconfig.json
+C:\Users\user\source\repos\kruskal_algo\kruskal_algo\bin\Debug\net6.0\kruskal_algo.dll
+C:\Users\user\source\repos\kruskal_algo\kruskal_algo\bin\Debug\net6.0\kruskal_algo.pdb
+C:\Users\user\source\repos\kruskal_algo\kruskal_algo\obj\Debug\net6.0\kruskal_algo.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\kruskal_algo\kruskal_algo\obj\Debug\net6.0\kruskal_algo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\kruskal_algo\kruskal_algo\obj\Debug\net6.0\kruskal_algo.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\kruskal_algo\kruskal_algo\obj\Debug\net6.0\kruskal_algo.AssemblyInfo.cs
+C:\Users\user\source\repos\kruskal_algo\kruskal_algo\obj\Debug\net6.0\kruskal_algo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\kruskal_algo\kruskal_algo\obj\Debug\net6.0\kruskal_algo.dll
+C:\Users\user\source\repos\kruskal_algo\kruskal_algo\obj\Debug\net6.0\refint\kruskal_algo.dll
+C:\Users\user\source\repos\kruskal_algo\kruskal_algo\obj\Debug\net6.0\kruskal_algo.pdb
+C:\Users\user\source\repos\kruskal_algo\kruskal_algo\obj\Debug\net6.0\kruskal_algo.genruntimeconfig.cache
+C:\Users\user\source\repos\kruskal_algo\kruskal_algo\obj\Debug\net6.0\ref\kruskal_algo.dll

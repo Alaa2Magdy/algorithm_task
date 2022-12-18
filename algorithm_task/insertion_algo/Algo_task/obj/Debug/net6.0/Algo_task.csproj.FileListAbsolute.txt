@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Algo_task\Algo_task\bin\Debug\net6.0\Algo_task.exe
+C:\Users\user\source\repos\Algo_task\Algo_task\bin\Debug\net6.0\Algo_task.deps.json
+C:\Users\user\source\repos\Algo_task\Algo_task\bin\Debug\net6.0\Algo_task.runtimeconfig.json
+C:\Users\user\source\repos\Algo_task\Algo_task\bin\Debug\net6.0\Algo_task.dll
+C:\Users\user\source\repos\Algo_task\Algo_task\bin\Debug\net6.0\Algo_task.pdb
+C:\Users\user\source\repos\Algo_task\Algo_task\obj\Debug\net6.0\Algo_task.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Algo_task\Algo_task\obj\Debug\net6.0\Algo_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Algo_task\Algo_task\obj\Debug\net6.0\Algo_task.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Algo_task\Algo_task\obj\Debug\net6.0\Algo_task.AssemblyInfo.cs
+C:\Users\user\source\repos\Algo_task\Algo_task\obj\Debug\net6.0\Algo_task.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Algo_task\Algo_task\obj\Debug\net6.0\Algo_task.dll
+C:\Users\user\source\repos\Algo_task\Algo_task\obj\Debug\net6.0\refint\Algo_task.dll
+C:\Users\user\source\repos\Algo_task\Algo_task\obj\Debug\net6.0\Algo_task.pdb
+C:\Users\user\source\repos\Algo_task\Algo_task\obj\Debug\net6.0\Algo_task.genruntimeconfig.cache
+C:\Users\user\source\repos\Algo_task\Algo_task\obj\Debug\net6.0\ref\Algo_task.dll
